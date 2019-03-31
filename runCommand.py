@@ -32,6 +32,7 @@ def run():
     for i in range(cmdAmt):
 
         cmdNum = str(i)
+        shell = config.get('SHELL', cmdNum)
         f = config.get('FILES', cmdNum)
         cmd = config.get('COMMANDS', cmdNum)
         append = config.get('MISC', 'FILE_APPEND')
@@ -46,7 +47,7 @@ def run():
             + ' file found.\n')
             
             # Hopefully run the command successfully
-            subprocess.run(cmd, shell=False)
+            subprocess.run(cmd, shell=shell)
             writeLog(datetime.now().isoformat(' ', 'seconds')
             + ': Run - '
             + f 

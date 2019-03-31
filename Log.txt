@@ -128,3 +128,10 @@
 2019-03-31 13:59:03: Run - Logout file found.
 2019-03-31 13:59:03: Run - Logout command executed.
 2019-03-31 13:59:03: Run - Logout file deleted.
+
+------------------------------------------------------------
+2019-03-31 14:08:10: Log start date
+2019-03-31 14:08:10: Startup - No potential loop files declared found.
+2019-03-31 14:08:35: Run - taskmgr file found.
+2019-03-31 14:08:35: Run - taskmgr command executed.
+2019-03-31 14:08:35: Run - taskmgr file deleted.
