@@ -1,0 +1,90 @@
+2019-03-31 01:18:14: Startup - shutdown file found.
+2019-03-31 01:18:14: Startup - shutdown file deleted.
+2019-03-31 01:18:14: Startup - reboot file found.
+2019-03-31 01:18:14: Startup - reboot file deleted.
+2019-03-31 01:18:14: Startup - chrome file found.
+2019-03-31 01:18:14: Startup - chrome file deleted.
+2019-03-31 01:18:14: Startup - sleep file found.
+2019-03-31 01:18:14: Startup - sleep file deleted.
+2019-03-31 01:18:14: Startup - logout file found.
+2019-03-31 01:18:14: Startup - logout file deleted.
+2019-03-31 01:25:46: Startup - shutdown file found.
+2019-03-31 01:25:46: Startup - shutdown file deleted.
+2019-03-31 01:27:42: Startup - shutdown file found.
+2019-03-31 01:27:42: Startup - shutdown file deleted.
+2019-03-31 01:27:42: Startup - All potential loop files declared are deleted.
+2019-03-31 01:51:25: Startup - Shutdown file found.
+2019-03-31 01:51:25: Startup - Shutdown file deleted.
+2019-03-31 01:51:25: Startup - All potential loop files declared are deleted.
+2019-03-31 01:53:05: Startup - Shutdown file found.
+2019-03-31 01:53:05: Startup - Shutdown file deleted.
+2019-03-31 01:53:05: Startup - All potential loop files declared are deleted.
+2019-03-31 01:58:11: Startup - Shutdown file found.
+2019-03-31 01:58:11: Startup - Shutdown file deleted.
+2019-03-31 01:58:11: Startup - All potential loop files declared are deleted.
+2019-03-31 02:02:19: Startup - Shutdown file found.
+2019-03-31 02:02:19: Startup - Shutdown file deleted.
+2019-03-31 02:02:19: Startup - All potential loop files declared are deleted.
+2019-03-31 02:03:06: Startup - Logout file found.
+2019-03-31 02:03:06: Startup - Logout file deleted.
+2019-03-31 02:03:06: Startup - All potential loop files declared are deleted.
+2019-03-31 11:08:58: Startup - Shutdown file found.
+2019-03-31 11:08:58: Startup - Shutdown file deleted.
+2019-03-31 11:08:58: Startup - All potential loop files declared are deleted.
+2019-03-31 11:09:48: Startup - Chrome file found.
+2019-03-31 11:09:48: Startup - Chrome file deleted.
+2019-03-31 11:09:48: Startup - All potential loop files declared are deleted.
+2019-03-31 11:10:13: Run - Chrome file found.
+2019-03-31 11:10:13: RUN - Chrome command executed.
+2019-03-31 11:10:13: RUN - Chrome file deleted.
+
+------------------------------------------------------------
+2019-03-31 11:13:45: Log start date
+2019-03-31 11:13:45: Startup - Chrome file found.
+2019-03-31 11:13:45: Startup - Chrome file deleted.
+2019-03-31 11:13:45: Startup - All potential loop files declared are deleted.
+2019-03-31 11:17:36: Run - Chrome file found.
+2019-03-31 11:17:36: RUN - Chrome command executed.
+2019-03-31 11:17:36: RUN - Chrome file deleted.
+2019-03-31 11:23:01: Run - Chrome file found.
+2019-03-31 11:23:01: RUN - Chrome command executed.
+2019-03-31 11:23:01: RUN - Chrome file deleted.
+
+------------------------------------------------------------
+2019-03-31 11:29:06: Log start date
+2019-03-31 11:29:06: Startup - No potential loop files declared found.
+
+------------------------------------------------------------
+2019-03-31 11:29:53: Log start date
+2019-03-31 11:29:53: Startup - No potential loop files declared found.
+2019-03-31 11:30:19: Run - Chrome file found.
+2019-03-31 11:30:19: Run - Chrome command executed.
+2019-03-31 11:30:19: Run - Chrome file deleted.
+
+------------------------------------------------------------
+2019-03-31 11:33:58: Log start date
+2019-03-31 11:33:58: Startup - No potential loop files declared found.
+2019-03-31 11:34:08: Run - taskmgr file found.
+
+------------------------------------------------------------
+2019-03-31 11:34:13: Log start date
+2019-03-31 11:34:13: Startup - taskmgr file found.
+2019-03-31 11:34:13: Startup - taskmgr file deleted.
+2019-03-31 11:34:13: Startup - All potential loop files declared are deleted.
+2019-03-31 11:34:48: Run - taskmgr file found.
+
+------------------------------------------------------------
+2019-03-31 11:36:11: Log start date
+2019-03-31 11:36:11: Startup - taskmgr file found.
+2019-03-31 11:36:11: Startup - taskmgr file deleted.
+2019-03-31 11:36:11: Startup - All potential loop files declared are deleted.
+2019-03-31 11:36:36: Run - taskmgr file found.
+
+------------------------------------------------------------
+2019-03-31 11:37:17: Log start date
+2019-03-31 11:37:17: Startup - taskmgr file found.
+2019-03-31 11:37:17: Startup - taskmgr file deleted.
+2019-03-31 11:37:17: Startup - All potential loop files declared are deleted.
+2019-03-31 11:37:42: Run - taskmgr file found.
+2019-03-31 11:37:42: Run - taskmgr command executed.
+2019-03-31 11:37:42: Run - taskmgr file deleted.
