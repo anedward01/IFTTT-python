@@ -88,3 +88,43 @@
 2019-03-31 11:37:42: Run - taskmgr file found.
 2019-03-31 11:37:42: Run - taskmgr command executed.
 2019-03-31 11:37:42: Run - taskmgr file deleted.
+
+------------------------------------------------------------
+2019-03-31 12:20:02: Log start date
+2019-03-31 12:20:02: Startup - No potential loop files declared found.
+
+------------------------------------------------------------
+2019-03-31 12:23:23: Log start date
+2019-03-31 12:23:23: Startup - No potential loop files declared found.
+
+------------------------------------------------------------
+2019-03-31 12:24:14: Log start date
+2019-03-31 12:24:14: Startup - Shutdown file found.
+2019-03-31 12:24:14: Startup - Shutdown file deleted.
+2019-03-31 12:24:14: Startup - All potential loop files declared are deleted.
+2019-03-31 12:27:04: Run - Chrome file found.
+2019-03-31 12:27:04: Run - Chrome command executed.
+2019-03-31 12:27:04: Run - Chrome file deleted.
+2019-03-31 13:12:47: Run - Chrome file found.
+2019-03-31 13:12:47: Run - Chrome command executed.
+2019-03-31 13:12:47: Run - Chrome file deleted.
+
+------------------------------------------------------------
+2019-03-31 13:40:47: Log start date
+2019-03-31 13:40:48: Startup - No potential loop files declared found.
+2019-03-31 13:49:53: Run - Logout file found.
+2019-03-31 13:49:53: Run - Logout command executed.
+2019-03-31 13:49:53: Run - Logout file deleted.
+2019-03-31 13:50:38: Run - Logout file found.
+2019-03-31 13:50:38: Run - Logout command executed.
+2019-03-31 13:50:38: Run - Logout file deleted.
+2019-03-31 13:53:08: Run - Logout file found.
+2019-03-31 13:53:09: Run - Logout command executed.
+2019-03-31 13:53:09: Run - Logout file deleted.
+
+------------------------------------------------------------
+2019-03-31 13:57:58: Log start date
+2019-03-31 13:57:58: Startup - No potential loop files declared found.
+2019-03-31 13:59:03: Run - Logout file found.
+2019-03-31 13:59:03: Run - Logout command executed.
+2019-03-31 13:59:03: Run - Logout file deleted.
