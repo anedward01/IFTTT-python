@@ -1,0 +1,7 @@
+*.pyc
+*.pyz
+build/
+dist/
+settings.json
+*.spec
+Saved Hash File *.txt
