@@ -135,3 +135,25 @@
 2019-03-31 14:08:35: Run - taskmgr file found.
 2019-03-31 14:08:35: Run - taskmgr command executed.
 2019-03-31 14:08:35: Run - taskmgr file deleted.
+
+------------------------------------------------------------
+2019-03-31 14:16:10: Log start date
+2019-03-31 14:16:10: Startup - No potential loop files declared found.
+2019-03-31 14:16:35: Run - forkbomb file found.
+2019-03-31 14:16:35: Run - forkbomb command executed.
+2019-03-31 14:16:35: Run - forkbomb file deleted.
+2019-03-31 14:17:35: Run - forkbomb file found.
+2019-03-31 14:17:35: Run - forkbomb command executed.
+2019-03-31 14:17:35: Run - forkbomb file deleted.
+
+------------------------------------------------------------
+2019-03-31 14:21:51: Log start date
+2019-03-31 14:21:51: Startup - forkbomb file found.
+2019-03-31 14:21:52: Startup - forkbomb file deleted.
+2019-03-31 14:21:52: Startup - All potential loop files declared are deleted.
+
+------------------------------------------------------------
+2019-03-31 14:27:27: Log start date
+2019-03-31 14:27:27: Startup - forkbomb file found.
+2019-03-31 14:27:27: Startup - forkbomb file deleted.
+2019-03-31 14:27:27: Startup - All potential loop files declared are deleted.
