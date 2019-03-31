@@ -11,7 +11,7 @@ from shutil import copyfile
 def rem():
     
     # config gets information from file,
-    # configRaw get amount from group
+    # configRaw gets amount in group
     config = configparser.ConfigParser()
     configRaw = configparser.RawConfigParser()
 
@@ -22,6 +22,7 @@ def rem():
     # Gets defines system path for command files
     sysPath = config.get('MISC', 'FILES_LOCATION')
 
+    #defines save location
     saveLoc = open('Log.txt', 'a+')
     writeLog = saveLoc.write
 
@@ -29,22 +30,36 @@ def rem():
     items = configRaw.items('FILES')
     cmdAmt = len(items)
 
-    # Checks for potential files that can cause loops at start.
+
     var1 = 0
+
+    # Checks for potential files that can cause loops at start.
     for i in range(cmdAmt):
+
+        # assigns variable with string of a number to check for number
         cmdNum = str(i)
         f = config.get('FILES', cmdNum)
+
+        # Adds file append in case append varies
         append = config.get('MISC', 'FILE_APPEND')
+
+        # Assigns file path by mixing a very lovely cocktail of abomination
         path = (sysPath + f.lower() + append)
+
+        # Checks to see if file exists
         if os.path.exists(path):
             var1 = 1
 
+            # Declares file found in log
             writeLog(datetime.now().isoformat(' ', 'seconds')
             + ': Startup - '
             + f
             + ' file found.\n')
 
+            # Deletes file
             os.remove(path)
+
+            # Declares file deleted in log
             writeLog(datetime.now().isoformat(' ', 'seconds')
             + ': Startup - '
             + f 

@@ -5,3 +5,6 @@ dist/
 settings.json
 *.spec
 Saved Hash File *.txt
+Log.txt
+files.ini
+Old code/
