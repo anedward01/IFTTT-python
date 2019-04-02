@@ -47,15 +47,33 @@ def run():
             + ' file found.\n')
             
             # Hopefully run the command successfully
-            subprocess.run(cmd, shell=shell)
+
+            command = subprocess.run(cmd, shell=shell, encoding='utf-8',
+            text=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+
+            outs, errs = command.stdout, command.stderr
+
             writeLog(datetime.now().isoformat(' ', 'seconds')
             + ': Run - '
             + f 
-            + ' command executed.\n')
+            + ' command executed with following information:\n')
+            
+            if outs:
+                for line in outs.split('\n'):
+                    print(line)
+                    writeLog('\n                     '
+                    + line)
+            
+            if errs:
+                for line in errs.split('\n'):
+                    print(line)
+                    writeLog('\n                     '
+                    + line)
 
             #Delete trigger file
             os.remove(path)
-            writeLog(datetime.now().isoformat(' ', 'seconds')
+            writeLog('\n'
+            + datetime.now().isoformat(' ', 'seconds')
             + ': Run - '
             + f 
             + ' file deleted.\n')
