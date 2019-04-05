@@ -1,4 +1,4 @@
-# Hash Generator - Creates a hash using multiple methods
+# IFTTT: Allows Google Home integration with a computer
 # Copyright (C) 2019  Anguianoewi
 
 # You should have received a copy of the GNU General Public License
