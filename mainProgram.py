@@ -1,3 +1,9 @@
+# Hash Generator - Creates a hash using multiple methods
+# Copyright (C) 2019  Anguianoewi
+
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>
+
 import os
 import datetime
 import sys
@@ -17,6 +23,17 @@ config.read('files.ini')
 saveMarker = 0
 saveInt = int(config.get('MISC','SAVE_INTERVAL'))
 runInt = int(config.get('MISC','SLEEP_TIME'))
+licRead = int(config.get('MISC', "LICENSE_READ"))
+
+if licRead == 0:
+    print('Hash Generator - Creates a hash using multiple methods\n'
+    'Copyright (C) 2019  Anguianoewi\n\n'
+    'You should have received a copy of the GNU General Public License\n'
+    'along with this program.  If not, see <http://www.gnu.org/licenses/>\n\n'
+    'To get rid of this notification, modify files.ini [MISC] LICENSE_READ to 1\n')
+
+else:
+    None
 
 # Sets up save location
 saveLoc = open('Log.txt', 'a+')
