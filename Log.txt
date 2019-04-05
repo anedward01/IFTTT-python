@@ -1,90 +1,354 @@
-2019-03-31 01:18:14: Startup - shutdown file found.
-2019-03-31 01:18:14: Startup - shutdown file deleted.
-2019-03-31 01:18:14: Startup - reboot file found.
-2019-03-31 01:18:14: Startup - reboot file deleted.
-2019-03-31 01:18:14: Startup - chrome file found.
-2019-03-31 01:18:14: Startup - chrome file deleted.
-2019-03-31 01:18:14: Startup - sleep file found.
-2019-03-31 01:18:14: Startup - sleep file deleted.
-2019-03-31 01:18:14: Startup - logout file found.
-2019-03-31 01:18:14: Startup - logout file deleted.
-2019-03-31 01:25:46: Startup - shutdown file found.
-2019-03-31 01:25:46: Startup - shutdown file deleted.
-2019-03-31 01:27:42: Startup - shutdown file found.
-2019-03-31 01:27:42: Startup - shutdown file deleted.
-2019-03-31 01:27:42: Startup - All potential loop files declared are deleted.
-2019-03-31 01:51:25: Startup - Shutdown file found.
-2019-03-31 01:51:25: Startup - Shutdown file deleted.
-2019-03-31 01:51:25: Startup - All potential loop files declared are deleted.
-2019-03-31 01:53:05: Startup - Shutdown file found.
-2019-03-31 01:53:05: Startup - Shutdown file deleted.
-2019-03-31 01:53:05: Startup - All potential loop files declared are deleted.
-2019-03-31 01:58:11: Startup - Shutdown file found.
-2019-03-31 01:58:11: Startup - Shutdown file deleted.
-2019-03-31 01:58:11: Startup - All potential loop files declared are deleted.
-2019-03-31 02:02:19: Startup - Shutdown file found.
-2019-03-31 02:02:19: Startup - Shutdown file deleted.
-2019-03-31 02:02:19: Startup - All potential loop files declared are deleted.
-2019-03-31 02:03:06: Startup - Logout file found.
-2019-03-31 02:03:06: Startup - Logout file deleted.
-2019-03-31 02:03:06: Startup - All potential loop files declared are deleted.
-2019-03-31 11:08:58: Startup - Shutdown file found.
-2019-03-31 11:08:58: Startup - Shutdown file deleted.
-2019-03-31 11:08:58: Startup - All potential loop files declared are deleted.
-2019-03-31 11:09:48: Startup - Chrome file found.
-2019-03-31 11:09:48: Startup - Chrome file deleted.
-2019-03-31 11:09:48: Startup - All potential loop files declared are deleted.
-2019-03-31 11:10:13: Run - Chrome file found.
-2019-03-31 11:10:13: RUN - Chrome command executed.
-2019-03-31 11:10:13: RUN - Chrome file deleted.
 
 ------------------------------------------------------------
-2019-03-31 11:13:45: Log start date
-2019-03-31 11:13:45: Startup - Chrome file found.
-2019-03-31 11:13:45: Startup - Chrome file deleted.
-2019-03-31 11:13:45: Startup - All potential loop files declared are deleted.
-2019-03-31 11:17:36: Run - Chrome file found.
-2019-03-31 11:17:36: RUN - Chrome command executed.
-2019-03-31 11:17:36: RUN - Chrome file deleted.
-2019-03-31 11:23:01: Run - Chrome file found.
-2019-03-31 11:23:01: RUN - Chrome command executed.
-2019-03-31 11:23:01: RUN - Chrome file deleted.
+2019-03-31 22:41:57: Log start date
+2019-03-31 22:41:57: Startup - No potential loop files declared found.
 
 ------------------------------------------------------------
-2019-03-31 11:29:06: Log start date
-2019-03-31 11:29:06: Startup - No potential loop files declared found.
+2019-03-31 22:43:16: Log start date
+2019-03-31 22:43:16: Startup - Chrome file found.
+2019-03-31 22:43:16: Startup - Chrome file deleted.
+2019-03-31 22:43:16: Startup - All potential loop files declared are deleted.
+2019-03-31 22:43:41: Run - Chrome file found.
+2019-03-31 22:43:41: Run - Chrome command executed with following information:
+2019-03-31 22:43:41: Run - Chrome file deleted.
 
 ------------------------------------------------------------
-2019-03-31 11:29:53: Log start date
-2019-03-31 11:29:53: Startup - No potential loop files declared found.
-2019-03-31 11:30:19: Run - Chrome file found.
-2019-03-31 11:30:19: Run - Chrome command executed.
-2019-03-31 11:30:19: Run - Chrome file deleted.
+2019-03-31 22:44:37: Log start date
+2019-03-31 22:44:37: Startup - No potential loop files declared found.
 
 ------------------------------------------------------------
-2019-03-31 11:33:58: Log start date
-2019-03-31 11:33:58: Startup - No potential loop files declared found.
-2019-03-31 11:34:08: Run - taskmgr file found.
+2019-03-31 22:45:54: Log start date
+2019-03-31 22:45:54: Startup - Chrome file found.
+2019-03-31 22:45:54: Startup - Chrome file deleted.
+2019-03-31 22:45:54: Startup - All potential loop files declared are deleted.
+2019-03-31 22:46:19: Run - Chrome file found.
+2019-03-31 22:46:19: Run - Chrome command executed with following information:
+                     2019-03-31 22:46:19: Run - Chrome file deleted.
+2019-03-31 22:47:00: Run - Chrome file found.
+2019-03-31 22:47:00: Run - Chrome command executed with following information:
+                     SUCCESS: The process "chrome.exe" with PID 104352 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 69016 has been terminated.                     SUCCESS: The process "chrome.exe" with PID 106748 has been terminated.                     SUCCESS: The process "chrome.exe" with PID 64200 has been terminated.                     SUCCESS: The process "chrome.exe" with PID 14204 has been terminated.                     SUCCESS: The process "chrome.exe" with PID 63292 has been terminated.                     SUCCESS: The process "chrome.exe" with PID 97652 has been terminated.                     SUCCESS: The process "chrome.exe" with PID 80540 has been terminated.                     SUCCESS: The process "chrome.exe" with PID 32620 has been terminated.                     SUCCESS: The process "chrome.exe" with PID 75328 has been terminated.                     SUCCESS: The process "chrome.exe" with PID 98920 has been terminated.
+                     2019-03-31 22:47:00: Run - Chrome file deleted.
 
 ------------------------------------------------------------
-2019-03-31 11:34:13: Log start date
-2019-03-31 11:34:13: Startup - taskmgr file found.
-2019-03-31 11:34:13: Startup - taskmgr file deleted.
-2019-03-31 11:34:13: Startup - All potential loop files declared are deleted.
-2019-03-31 11:34:48: Run - taskmgr file found.
+2019-03-31 22:49:15: Log start date
+2019-03-31 22:49:15: Startup - No potential loop files declared found.
+2019-03-31 22:49:40: Run - Chrome file found.
+2019-03-31 22:49:40: Run - Chrome command executed with following information:
+
+                     
+2019-03-31 22:49:40: Run - Chrome file deleted.
+2019-03-31 22:50:20: Run - Chrome file found.
+2019-03-31 22:50:20: Run - Chrome command executed with following information:
+
+                     SUCCESS: The process "chrome.exe" with PID 61536 has been terminated.
+
+                     SUCCESS: The process "chrome.exe" with PID 49296 has been terminated.
+
+                     SUCCESS: The process "chrome.exe" with PID 51888 has been terminated.
+
+                     SUCCESS: The process "chrome.exe" with PID 76364 has been terminated.
+
+                     SUCCESS: The process "chrome.exe" with PID 23184 has been terminated.
+
+                     SUCCESS: The process "chrome.exe" with PID 101880 has been terminated.
+
+                     SUCCESS: The process "chrome.exe" with PID 29860 has been terminated.
+
+                     SUCCESS: The process "chrome.exe" with PID 30376 has been terminated.
+
+                     SUCCESS: The process "chrome.exe" with PID 72048 has been terminated.
+
+                     
+2019-03-31 22:50:21: Run - Chrome file deleted.
 
 ------------------------------------------------------------
-2019-03-31 11:36:11: Log start date
-2019-03-31 11:36:11: Startup - taskmgr file found.
-2019-03-31 11:36:11: Startup - taskmgr file deleted.
-2019-03-31 11:36:11: Startup - All potential loop files declared are deleted.
-2019-03-31 11:36:36: Run - taskmgr file found.
+2019-03-31 22:52:25: Log start date
+2019-03-31 22:52:25: Startup - No potential loop files declared found.
+2019-03-31 22:52:50: Run - Chrome file found.
+2019-03-31 22:52:50: Run - Chrome command executed with following information:2019-03-31 22:52:50: Run - Chrome file deleted.
 
 ------------------------------------------------------------
-2019-03-31 11:37:17: Log start date
-2019-03-31 11:37:17: Startup - taskmgr file found.
-2019-03-31 11:37:17: Startup - taskmgr file deleted.
-2019-03-31 11:37:17: Startup - All potential loop files declared are deleted.
-2019-03-31 11:37:42: Run - taskmgr file found.
-2019-03-31 11:37:42: Run - taskmgr command executed.
-2019-03-31 11:37:42: Run - taskmgr file deleted.
+2019-03-31 22:56:11: Log start date
+2019-03-31 22:56:11: Startup - No potential loop files declared found.
+2019-03-31 22:56:41: Run - Chrome file found.
+2019-03-31 22:56:41: Run - Chrome command executed with following information:
+
+
+                     SUCCESS: The process "chrome.exe" with PID 81820 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 33092 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 79024 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 35096 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 96076 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 73752 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 20872 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 60864 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 35028 has been terminated.
+                     /n2019-03-31 22:56:41: Run - Chrome file deleted.
+
+------------------------------------------------------------
+2019-03-31 22:56:59: Log start date
+2019-03-31 22:56:59: Startup - No potential loop files declared found.
+2019-03-31 22:57:19: Run - Chrome file found.
+2019-03-31 22:57:19: Run - Chrome command executed with following information:
+
+
+                     SUCCESS: The process "chrome.exe" with PID 14312 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 89476 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 4844 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 7780 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 6852 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 42000 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 8816 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 460 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 40412 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 7348 has been terminated.
+                     
+2019-03-31 22:57:19: Run - Chrome file deleted.
+2019-03-31 22:59:35: Run - Chrome file found.
+2019-03-31 22:59:35: Run - Chrome command executed with following information:
+
+
+                     
+2019-03-31 22:59:35: Run - Chrome file deleted.
+
+------------------------------------------------------------
+2019-03-31 23:03:08: Log start date
+2019-03-31 23:03:08: Startup - No potential loop files declared found.
+
+------------------------------------------------------------
+2019-03-31 23:03:57: Log start date
+2019-03-31 23:03:57: Startup - Chrome file found.
+2019-03-31 23:03:57: Startup - Chrome file deleted.
+2019-03-31 23:03:57: Startup - All potential loop files declared are deleted.
+2019-03-31 23:04:22: Run - Chrome file found.
+2019-03-31 23:04:22: Run - Chrome command executed with following information:
+
+                     SUCCESS: The process "chrome.exe" with PID 62740 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 92116 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 56172 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 45080 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 90964 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 47888 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 50992 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 78228 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 17980 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 12824 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 70460 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 105948 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 67204 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 59940 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 92336 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 106632 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 39048 has been terminated.
+                     
+2019-03-31 23:04:22: Run - Chrome file deleted.
+2019-03-31 23:05:02: Run - Chrome file found.
+2019-03-31 23:05:02: Run - Chrome command executed with following information:
+
+                     
+2019-03-31 23:05:02: Run - Chrome file deleted.
+
+------------------------------------------------------------
+2019-03-31 23:06:05: Log start date
+2019-03-31 23:06:05: Startup - No potential loop files declared found.
+
+------------------------------------------------------------
+2019-03-31 23:10:06: Log start date
+2019-03-31 23:10:06: Startup - Chrome file found.
+2019-03-31 23:10:06: Startup - Chrome file deleted.
+2019-03-31 23:10:06: Startup - All potential loop files declared are deleted.
+
+------------------------------------------------------------
+2019-03-31 23:14:19: Log start date
+2019-03-31 23:14:20: Startup - Chrome file found.
+2019-03-31 23:14:20: Startup - Chrome file deleted.
+2019-03-31 23:14:20: Startup - All potential loop files declared are deleted.
+
+------------------------------------------------------------
+2019-03-31 23:28:38: Log start date
+2019-03-31 23:28:38: Startup - Chrome file found.
+2019-03-31 23:28:38: Startup - Chrome file deleted.
+2019-03-31 23:28:38: Startup - All potential loop files declared are deleted.
+2019-03-31 23:29:43: Run - taskmgr file found.
+2019-03-31 23:29:44: Run - taskmgr command executed with following information:
+
+2019-03-31 23:29:44: Run - taskmgr file deleted.
+
+------------------------------------------------------------
+2019-03-31 23:43:52: Log start date
+2019-03-31 23:43:52: Startup - No potential loop files declared found.
+
+------------------------------------------------------------
+2019-03-31 23:46:02: Log start date
+2019-03-31 23:46:02: Startup - taskmgr file found.
+2019-03-31 23:46:02: Startup - taskmgr file deleted.
+2019-03-31 23:46:02: Startup - All potential loop files declared are deleted.
+
+------------------------------------------------------------
+2019-03-31 23:47:37: Log start date
+2019-03-31 23:47:37: Startup - taskmgr file found.
+2019-03-31 23:47:37: Startup - taskmgr file deleted.
+2019-03-31 23:47:37: Startup - All potential loop files declared are deleted.
+2019-03-31 23:48:02: Run - taskmgr file found.
+2019-03-31 23:48:02: Run - taskmgr command executed with following information:
+
+                     
+                     
+2019-03-31 23:48:02: Run - taskmgr file deleted.
+2019-03-31 23:49:28: Run - Chrome file found.
+2019-03-31 23:49:28: Run - Chrome command executed with following information:
+
+                     SUCCESS: The process "chrome.exe" with PID 101296 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 62780 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 22452 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 43872 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 102196 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 82568 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 56176 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 51132 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 58556 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 27252 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 20100 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 23608 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 91916 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 71488 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 21076 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 41728 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 44816 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 79116 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 106356 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 80016 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 18456 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 55272 has been terminated.
+                     
+                     
+2019-03-31 23:49:28: Run - Chrome file deleted.
+2019-03-31 23:50:08: Run - Chrome file found.
+2019-03-31 23:50:08: Run - Chrome command executed with following information:
+
+                     
+                     ERROR: The process "chrome.exe" not found.
+                     
+2019-03-31 23:50:08: Run - Chrome file deleted.
+
+------------------------------------------------------------
+2019-03-31 23:50:43: Log start date
+2019-03-31 23:50:43: Startup - No potential loop files declared found.
+2019-03-31 23:51:13: Run - Chrome file found.
+2019-03-31 23:51:13: Run - Chrome command executed with following information:
+
+                     SUCCESS: The process "chrome.exe" with PID 98928 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 97952 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 102048 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 89596 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 98424 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 100692 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 103300 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 58080 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 98864 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 31376 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 1692 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 108920 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 75804 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 46628 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 34648 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 28444 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 40404 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 32976 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 35652 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 61704 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 60148 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 49712 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 48084 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 39548 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 55940 has been terminated.
+                     
+2019-03-31 23:51:13: Run - Chrome file deleted.
+2019-03-31 23:51:53: Run - Chrome file found.
+2019-03-31 23:51:54: Run - Chrome command executed with following information:
+
+                     ERROR: The process "chrome.exe" not found.
+                     
+2019-03-31 23:51:54: Run - Chrome file deleted.
+
+------------------------------------------------------------
+2019-03-31 23:55:41: Log start date
+2019-03-31 23:55:41: Startup - No potential loop files declared found.
+2019-03-31 23:56:11: Run - Chrome file found.
+2019-03-31 23:56:11: Run - Chrome command executed with following information:
+
+                     SUCCESS: The process "chrome.exe" with PID 44856 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 43472 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 23568 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 48584 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 23588 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 109248 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 39752 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 36924 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 52484 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 61936 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 15592 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 41696 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 68884 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 100976 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 68584 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 108416 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 85740 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 46500 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 20428 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 66924 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 15876 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 86200 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 104684 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 108452 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 55556 has been terminated.
+                     SUCCESS: The process "chrome.exe" with PID 28244 has been terminated.
+                     
+2019-03-31 23:56:11: Run - Chrome file deleted.
+2019-03-31 23:56:21: Run - Chrome file found.
+2019-03-31 23:56:21: Run - Chrome command executed with following information:
+
+                     ERROR: The process "chrome.exe" not found.
+                     
+2019-03-31 23:56:21: Run - Chrome file deleted.
+2019-03-31 23:56:51: Run - forkbomb file found.
+2019-03-31 23:56:58: Run - forkbomb command executed with following information:
+
+2019-03-31 23:56:58: Run - forkbomb file deleted.
+
+------------------------------------------------------------
+2019-04-01 00:41:29: Log start date
+2019-04-01 00:41:29: Startup - No potential loop files declared found.
+2019-04-01 00:43:25: Run - forkbomb file found.
+2019-04-01 00:43:26: Run - forkbomb command executed with following information:
+
+2019-04-01 00:43:26: Run - forkbomb file deleted.
+2019-04-01 03:32:08: Run - Shutdown file found.
+2019-04-01 03:32:08: Run - Shutdown command executed with following information:
+
+2019-04-01 03:32:08: Run - Shutdown file deleted.
+
+------------------------------------------------------------
+2019-04-01 22:58:49: Log start date
+2019-04-01 22:58:49: Startup - No potential loop files declared found.
+2019-04-01 23:44:39: Run - Shutdown file found.
+2019-04-01 23:44:39: Run - Shutdown command executed with following information:
+
+2019-04-01 23:44:39: Run - Shutdown file deleted.
+
+------------------------------------------------------------
+2019-04-02 13:08:16: Log start date
+2019-04-02 13:08:16: Startup - No potential loop files declared found.
+
+------------------------------------------------------------
+2019-04-02 13:58:53: Log start date
+2019-04-02 13:58:53: Startup - No potential loop files declared found.
+2019-04-02 13:59:18: Run - taskmgr file found.
+2019-04-02 13:59:18: Run - taskmgr command executed with following information:
+
+2019-04-02 13:59:18: Run - taskmgr file deleted.
+2019-04-02 13:59:59: Run - taskmgr file found.
+2019-04-02 13:59:59: Run - taskmgr command executed with following information:
+
+2019-04-02 13:59:59: Run - taskmgr file deleted.

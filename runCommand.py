@@ -32,6 +32,7 @@ def run():
     for i in range(cmdAmt):
 
         cmdNum = str(i)
+        shell = config.get('SHELL', cmdNum)
         f = config.get('FILES', cmdNum)
         cmd = config.get('COMMANDS', cmdNum)
         append = config.get('MISC', 'FILE_APPEND')
@@ -46,15 +47,33 @@ def run():
             + ' file found.\n')
             
             # Hopefully run the command successfully
-            subprocess.run(cmd, shell=False)
+
+            command = subprocess.run(cmd, shell=shell, encoding='utf-8',
+            text=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+
+            outs, errs = command.stdout, command.stderr
+
             writeLog(datetime.now().isoformat(' ', 'seconds')
             + ': Run - '
             + f 
-            + ' command executed.\n')
+            + ' command executed with following information:\n')
+            
+            if outs:
+                for line in outs.split('\n'):
+                    print(line)
+                    writeLog('\n                     '
+                    + line)
+            
+            if errs:
+                for line in errs.split('\n'):
+                    print(line)
+                    writeLog('\n                     '
+                    + line)
 
             #Delete trigger file
             os.remove(path)
-            writeLog(datetime.now().isoformat(' ', 'seconds')
+            writeLog('\n'
+            + datetime.now().isoformat(' ', 'seconds')
             + ': Run - '
             + f 
             + ' file deleted.\n')
